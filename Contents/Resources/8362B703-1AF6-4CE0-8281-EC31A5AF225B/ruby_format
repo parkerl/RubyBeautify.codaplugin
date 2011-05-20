@@ -1,0 +1,1 @@
+"ruby" "${CODA_BUNDLE_SUPPORT}/RBeautify.rb" - $1
