@@ -1,7 +1,7 @@
 RubyBeautify Coda plug-in
 ===================
 
-This provides Coda plugin support for  P. Lutus' RBeautify.
+This provides Coda plugin support for  P. Lutus' RBeautify [http://www.arachnoid.com/ruby/rbeautify.rb.html](http://www.arachnoid.com/ruby/rbeautify.rb.html).
 
 Contains the following command specific to the current file:
 
